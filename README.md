@@ -1,3 +1,5 @@
+![NeuralAdvance](branding/logo-neuraladvance-horizontal.png)
+
 # Neuraladvance Apps
 
 Aplicaciones gratuitas publicadas por NeuralAdvance.
@@ -25,3 +27,8 @@ Mini CRM de escritorio para seguimiento comercial y gestion de clientes.
 ## Publicacion
 
 Este repositorio usa GitHub Releases para distribuir los instaladores oficiales.
+
+## Marca
+
+- Logo principal del repositorio: `branding/logo-neuraladvance-horizontal.png`
+- Logo redondo para usos de marca: `branding/logo-neuraladvance-round.png`
