@@ -1,0 +1,10 @@
+# Evita subir binarios y material sensible al historial Git
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
+*.log
+.env
+.env.*
+
