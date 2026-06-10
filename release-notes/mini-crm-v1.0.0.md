@@ -1,4 +1,4 @@
-![NeuralAdvance](https://raw.githubusercontent.com/Neuraladvance/neuraladvance.net-apps/main/branding/logo-neuraladvance-horizontal.png)
+<img src="https://raw.githubusercontent.com/Neuraladvance/neuraladvance.net-apps/main/branding/logo-neuraladvance-horizontal.png" alt="NeuralAdvance" width="360" />
 
 Aplicacion gratuita publicada por cortesia de NeuralAdvance.net
 
