@@ -2,7 +2,7 @@
 
 # Neuraladvance Apps
 
-Aplicaciones gratuitas publicadas por NeuralAdvance.
+Aplicaciones gratuitas publicadas por cortesia de NeuralAdvance.net
 
 ## Descargas
 
